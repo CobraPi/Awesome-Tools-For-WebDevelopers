@@ -73,6 +73,7 @@ If you liked this repo or find it useful, please give it a star. Thanks!
 
 ### Unicode Converter
 - https://www.branah.com/unicode-converter
+- https://practicalwebtools.com — 1,400+ client-side converters & calculators (PDF, image, audio, docs), no uploads
 
 ### Url Decoder/Encoder
 - https://meyerweb.com/eric/tools/dencoder/
